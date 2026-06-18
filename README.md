@@ -21,8 +21,8 @@ It answers questions from a local knowledge base (sample.txt) with optional voic
 
 ## UI Preview
 
-![<img width="917" height="852" alt="image" src="https://github.com/user-attachments/assets/95567193-08a8-498b-ad08-c313720ec402"] />
 
+![UI Screenshot](https://github.com/user-attachments/assets/95567193-08a8-498b-ad08-c313720ec402)
 ---
 
 ## System Architecture
